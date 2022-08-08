@@ -1,0 +1,7 @@
+asm50
+*.build
+*.lst
+*.asm
+*.prg
+*.o
+
